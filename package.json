@@ -1,0 +1,21 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "description": "Sample repository to act as library for Git Submodule demo.",
+  "main": "lib.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data-miner00/cdn.git"
+  },
+  "keywords": [],
+  "author": "Shaun Chong <pkay_@live.com>",
+  "license": "EUPL-1.2",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/data-miner00/cdn/issues"
+  },
+  "homepage": "https://github.com/data-miner00/cdn#readme"
+}
